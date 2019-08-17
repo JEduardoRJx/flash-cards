@@ -1,4 +1,4 @@
-# FlashCards Starter
+# Flash Cards
 
 ## Contributors
 J. Eduardo Rodriguez
@@ -24,4 +24,5 @@ Using the terminal, to play the Flash Cards game the player should...
 4) then type `node index.js` to start playing the game
 
 Here's an example of the game:
+
 ![flash cards example gif](https://media.giphy.com/media/1zkb1q58eTiTH6D7wc/giphy.gif)
